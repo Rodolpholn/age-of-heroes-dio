@@ -37,9 +37,9 @@ O sistema avalia o Tipo e o Nível para entregar o melhor item disponível:<br>
 
 ## Como Executar
 
--Certifique-se de ter o Node.js instalado.
+- Certifique-se de ter o Node.js instalado.
 
--No terminal, acesse a pasta do projeto:
+- No terminal, acesse a pasta do projeto:
 
 ```bash
 node src/js/index.js
