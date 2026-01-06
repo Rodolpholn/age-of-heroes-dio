@@ -27,7 +27,7 @@ Modularização: O código foi separado em arquivos (herois.js, weapons.js, inde
 
 ## Como Funciona a Lógica
 
-O sistema avalia o Tipo e o Nível para entregar o melhor item disponível:
+O sistema avalia o Tipo e o Nível para entregar o melhor item disponível:<br>
 | --- | --- | --- | --- | --- |<br>
 | Classe | Nível 1-10 | Nível 11-50 | Nível 51-90 |Nível 91+ |<br>
 | Guerreiro |Espada de Madeira | Espada de Bronze | Espada Lendária | Espada Divina|<br>
