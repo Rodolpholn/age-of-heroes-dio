@@ -15,15 +15,15 @@ Modularização: O código foi separado em arquivos (herois.js, weapons.js, inde
 
 ## Requisitos do Projeto Atendidos
 
-[x] Variáveis e Operadores: Utilizados para gerenciar o estado do herói e cálculos de nível.
+[x]Variáveis e Operadores: Utilizados para gerenciar o estado do herói e cálculos de nível.
 
-[x] Laços de Repetição: Implementado um for no arquivo principal para simular a progressão de turnos e ganho de XP.
+[x]Laços de Repetição: Implementado um for no arquivo principal para simular a progressão de turnos e ganho de XP.
 
-[x] Estruturas de Decisão: Uso de if/else if complexos para validar classe e nível simultaneamente.
+[x]Estruturas de Decisão: Uso de if/else if complexos para validar classe e nível simultaneamente.
 
-[x] Funções: Criação de funções específicas para processar a lógica de recompensas.
+[x]Funções: Criação de funções específicas para processar a lógica de recompensas.
 
-[x] Classes e Objetos: Definição da classe Heroi para instanciar personagens de forma organizada.
+[x]Classes e Objetos: Definição da classe Heroi para instanciar personagens de forma organizada.
 
 ## Como Funciona a Lógica
 
